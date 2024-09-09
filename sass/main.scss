@@ -1,5 +1,5 @@
-$clr: blue;
-
-body {
-    background: $clr;
-}
+@use "base";
+@use "components";
+@use "utilities";
+@use "layout";
+@use "vendor";
